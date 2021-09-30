@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USRNAME" : "root-user",
+        "DB_PASSWORD": "IDLi5FilNwTcE0G8",
+        "DB_NAME": "messages",
+        "AUTH_KEY": "somesupersecretprivatekey"
+    }
+}
