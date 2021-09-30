@@ -1,9 +1,9 @@
 # nodejs resful api
 
-still work in progress
+work still in progress
 
-Paprastas nodejs api'ius kuriame galima kurti, perziureti, atnaujinti, istrinti postus.
-Taip pat galima prisiregistruoti ir prisijungti, pasikeisti savo statusa.
+Paprastas nodejs api'ius kuriame galima kurti, peržiurėti, atnaujinti, ištrinti postus.
+Taip pat galima prisiregistruoti ir prisijungti, pasikeisti savo statusą.
 Daryta Linux Ubuntu aplinkoje.
 
 ### lokali/dev pasileidimo instrukcija. 
